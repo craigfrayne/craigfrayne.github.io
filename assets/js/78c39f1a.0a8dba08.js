@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9936],{3639:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"SCAYLE 2.1.3","permalink":"/releases/welcome"},{"title":"SCAYLE 2.1.2","permalink":"/releases/long-blog-post"},{"title":"SCAYLE 2.1.1","permalink":"/releases/first-blog-post"}]}')}}]);
