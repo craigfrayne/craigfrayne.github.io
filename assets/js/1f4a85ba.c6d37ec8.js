@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8986],{1027:e=>{e.exports=JSON.parse('{"title":"Overview","description":"This user manual covers features of the SCAYLE Panel.","slug":"/category/overview","permalink":"/docs/next/category/overview","navigation":{"next":{"title":"Introduction","permalink":"/docs/next/panel/overview/intro"}}}')}}]);
